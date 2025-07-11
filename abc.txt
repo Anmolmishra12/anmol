@@ -1,0 +1,20 @@
+git init- to make .git files.
+ls -a = to check hidden files.
+ls -h = to check hidden files.
+git remote add origin <link>=to add remote control from local to remote
+git remote -v=to verify remote
+git branch = to verify branch
+git branch -m main =to rename branch
+
+mkdir = to make new directory
+
+for push
+1)git push origin <name of the branch>
+2)git push -u origin main
+gif diff <branch name> =to compare commits,branches,file and more
+git merge <branch name >=to merge 2 branches
+git merge --abort= to abort merge
+git pull origin main =used to fetch and download content from a remote repo to local repo.
+
+undoing changes
+1)staged chage=git reset file name
