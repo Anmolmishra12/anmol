@@ -44,3 +44,4 @@ git stash pop =apply and drop stash
 git stash drop=to drop stash
 git stash clear
 git tag <tag name>
+git all code
